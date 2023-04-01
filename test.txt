@@ -7,3 +7,5 @@ update
 
 
 또 수정
+
+tutorial/tutorial/ 여기서도 수정했는데~~
