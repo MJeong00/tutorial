@@ -10,3 +10,4 @@ Oasis - Don't look back in anger
 ddd
 
 파일열어서 수정했다!!!
+리모트에서 수정
